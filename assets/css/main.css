@@ -1,30 +1,4 @@
-/* Theme Description
--------------------------------------------------
 
-	  Theme Name:
-	  Author:
-	  Support:
-	  Description:
-	  Version:
-	  
-------------------------------------------------- 
-*/
-/* CSS Index
--------------------------------------------------
-
-	1. Theme default css
-	2. header
-	3. slider
-	4. about-area
-	5. features-box
-	6. department
-	7. team
-	8. video-area
-	9. counter
-	10. footer
-
--------------------------------------------------
-*/
 /*-------------   Color variabel  --------------*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,200i,300,400,500,600,700,800,900&display=swap");
 /* line 35, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_color.scss */
@@ -7037,28 +7011,28 @@ del {
 /* line 265, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_elements.scss */
 .genric-btn.danger {
   color: #fff;
-  background: #f44a40;
+  background: #7FFFD4;
   border: 1px solid transparent;
 }
 
 /* line 269, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_elements.scss */
 .genric-btn.danger:hover {
-  color: #f44a40;
-  border: 1px solid #f44a40;
+  color: #7FFFD4;
+  border: 1px solid #7FFFD4;
   background: #fff;
 }
 
 /* line 275, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_elements.scss */
 .genric-btn.danger-border {
-  color: #f44a40;
-  border: 1px solid #f44a40;
+  color: #7FFFD4;
+  border: 1px solid #7FFFD4;
   background: #fff;
 }
 
 /* line 279, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_elements.scss */
 .genric-btn.danger-border:hover {
   color: #fff;
-  background: #f44a40;
+  background: #7FFFD4;
   border: 1px solid transparent;
 }
 
